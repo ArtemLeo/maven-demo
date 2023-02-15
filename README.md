@@ -1,7 +1,10 @@
-## Overview
-Demo project for description maven build tool.
+<h1 align>Maven-Demo🖐</h1>
+<h2>🟠Project for description maven build tool 👇</h2>
 
-The article about Maven in russian:
+<h3><a href="https://javarush.com/groups/posts/3120-java-proekt-ot-a-do-ja-vse-chto-vih-khoteli-znatjh-o-maven-chastjh-2"><strong>Maven-Demo</strong></a></h3>
+
+
+## Overview
 
 Part1: ["Java-проект от А до Я": Все, что вы хотели знать о Maven. Часть 1](https://javarush.ru/groups/posts/3119-java-proekt-ot-a-do-ja-vse-chto-vih-khoteli-znatjh-o-maven)
 
