@@ -1,8 +1,6 @@
 <h1 align>Maven-Demo🖐</h1>
 <h2>🟠Project for description maven build tool 👇</h2>
 
-<h3><a href="https://javarush.com/groups/posts/3120-java-proekt-ot-a-do-ja-vse-chto-vih-khoteli-znatjh-o-maven-chastjh-2"><strong>Maven-Demo</strong></a></h3>
-
 
 ## Overview
 
@@ -20,13 +18,13 @@ mvn clean install
 ```
 
 ## Authors
-* Roman Beskrovnyi - [romankh3](https://github.com/romankh3)
+Authors - let's not forget about ourselves;
 
 ## Contributing
-Please, follow [Contributing](CONTRIBUTING.md) page.
+Contributing is a file describing how you can contribute to this project. Made as a separate file for the Contributing header in the README;
 
 ## Code of Conduct
-Please, follow [Code of Conduct](CODE_OF_CONDUCT.md) page.
+Code of Conduct - a file describing the rules for participating in project development;
 
 ## License
-This project is Apache License 2.0 - see the [LICENSE](LICENSE) file for details
+License - the license under which the project is written. It is necessary so that those who will use the project know what is guaranteed and what is not.
